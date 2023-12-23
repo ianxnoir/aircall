@@ -145,15 +145,6 @@ const App = () => {
     setIsSelectMode(false);
   };
 
-  const [alignment, setAlignment] = useState('web');
-
-  const handleChange = (
-    newAlignment
-  ) => {
-    setAlignment(newAlignment);
-    setIsSelectMode(false);
-  };
-
   const [activeTab, setActiveTab] = useState('page1');
 
   const handleTabClick = (tab) => {
