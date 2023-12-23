@@ -12,7 +12,7 @@
   "main": "index.js",
   "repository": "",
   "author": "",
-  "license": "MIT",
+  "license": "",
   "private": false,
   "dependencies": {
     "@emotion/react": "^11.11.1",
